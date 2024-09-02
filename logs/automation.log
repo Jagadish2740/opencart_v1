@@ -1,0 +1,39 @@
+20:34:32.596 [main] INFO  testCases.TC_001 - Clicked on Register
+20:34:33.705 [main] INFO  testCases.TC_001 - Providing Customer Details.....
+20:34:41.681 [main] INFO  testCases.TC_001 - Validating expected Message......
+20:34:41.930 [main] INFO  testCases.TC_001 - ********* Finished TC_001 Test ***********
+09:32:55.839 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\vanti\OneDrive\Desktop\Selenium Project\opencart_v1\docker.xml
+
+09:33:39.679 [main] INFO  testCases.TC_001 - *********** Starting TC_001 test ***************
+09:33:40.239 [main] INFO  testCases.TC_001 - Clicked on My Account
+09:33:42.492 [main] INFO  testCases.TC_001 - Clicked on Register
+09:33:42.653 [main] INFO  testCases.TC_001 - Providing Customer Details.....
+09:33:45.851 [main] INFO  testCases.TC_001 - Validating expected Message......
+09:33:46.055 [main] INFO  testCases.TC_001 - ********* Finished TC_001 Test ***********
+09:34:03.346 [main] INFO  testCases.TC_002_Login_Test - ******* Starting TC_002_login_Test ********
+09:34:05.587 [main] INFO  testCases.TC_002_Login_Test - ******* Finished TC_002_login_Test ********
+10:42:32.314 [main] INFO  testCases.TC_001 - *********** Starting TC_001 test ***************
+10:42:32.640 [main] INFO  testCases.TC_001 - Clicked on My Account
+10:42:33.463 [main] INFO  testCases.TC_001 - Clicked on Register
+10:42:33.467 [main] INFO  testCases.TC_001 - Providing Customer Details.....
+10:42:35.728 [main] INFO  testCases.TC_001 - Validating expected Message......
+10:42:35.776 [main] INFO  testCases.TC_001 - ********* Finished TC_001 Test ***********
+10:42:43.629 [main] INFO  testCases.TC_002_Login_Test - ******* Starting TC_002_login_Test ********
+10:42:46.041 [main] INFO  testCases.TC_002_Login_Test - ******* Finished TC_002_login_Test ********
+10:50:39.542 [main] INFO  testCases.TC_001 - *********** Starting TC_001 test ***************
+10:50:39.752 [main] INFO  testCases.TC_001 - Clicked on My Account
+10:50:40.438 [main] INFO  testCases.TC_001 - Clicked on Register
+10:50:40.447 [main] INFO  testCases.TC_001 - Providing Customer Details.....
+10:50:43.090 [main] INFO  testCases.TC_001 - Validating expected Message......
+10:50:43.196 [main] INFO  testCases.TC_001 - ********* Finished TC_001 Test ***********
+10:50:53.168 [main] INFO  testCases.TC_002_Login_Test - ******* Starting TC_002_login_Test ********
+10:50:54.988 [main] INFO  testCases.TC_002_Login_Test - ******* Finished TC_002_login_Test ********
+11:56:52.246 [main] INFO  testCases.TC_001 - *********** Starting TC_001 test ***************
+11:56:53.055 [main] INFO  testCases.TC_001 - Clicked on My Account
+11:56:53.877 [main] INFO  testCases.TC_001 - Clicked on Register
+11:56:53.883 [main] INFO  testCases.TC_001 - Providing Customer Details.....
+11:56:56.756 [main] INFO  testCases.TC_001 - Validating expected Message......
+11:56:57.012 [main] INFO  testCases.TC_001 - ********* Finished TC_001 Test ***********
+11:57:10.711 [main] INFO  testCases.TC_002_Login_Test - ******* Starting TC_002_login_Test ********
+11:57:13.267 [main] INFO  testCases.TC_002_Login_Test - ******* Finished TC_002_login_Test ********

@@ -1,0 +1,70 @@
+10:18:35.702 [main] INFO  testCases.TC_001 - Clicked on My Account
+10:18:37.183 [main] INFO  testCases.TC_001 - Clicked on Register
+10:18:37.189 [main] INFO  testCases.TC_001 - Providing Customer Details.....
+10:18:40.754 [main] INFO  testCases.TC_001 - Validating expected Message......
+10:18:40.800 [main] INFO  testCases.TC_001 - ********* Finished TC_001 Test ***********
+10:19:01.222 [main] INFO  testCases.TC_002_Login_Test - ******* Starting TC_002_login_Test ********
+10:19:04.401 [main] INFO  testCases.TC_002_Login_Test - ******* Finished TC_002_login_Test ********
+10:34:40.950 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\vanti\OneDrive\Desktop\Selenium Project\opencart_v1\master.xml
+
+10:35:25.224 [main] INFO  testCases.TC_001 - *********** Starting TC_001 test ***************
+10:35:25.888 [main] INFO  testCases.TC_001 - Clicked on My Account
+10:35:26.963 [main] INFO  testCases.TC_001 - Clicked on Register
+10:35:26.977 [main] INFO  testCases.TC_001 - Providing Customer Details.....
+10:35:33.457 [main] INFO  testCases.TC_001 - Validating expected Message......
+10:35:33.540 [main] INFO  testCases.TC_001 - ********* Finished TC_001 Test ***********
+22:36:48.274 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\vanti\OneDrive\Desktop\Selenium Project\opencart_v1\master.xml
+
+22:37:07.618 [main] INFO  testCases.TC_001 - *********** Starting TC_001 test ***************
+22:37:07.846 [main] INFO  testCases.TC_001 - Clicked on My Account
+22:37:09.468 [main] INFO  testCases.TC_001 - Clicked on Register
+22:37:09.473 [main] INFO  testCases.TC_001 - Providing Customer Details.....
+22:37:11.896 [main] INFO  testCases.TC_001 - Validating expected Message......
+22:37:11.996 [main] INFO  testCases.TC_001 - ********* Finished TC_001 Test ***********
+15:05:00.977 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\vanti\OneDrive\Desktop\Selenium Project\opencart_v1\master.xml
+
+15:05:22.210 [main] INFO  testCases.TC_001 - *********** Starting TC_001 test ***************
+15:05:22.929 [main] INFO  testCases.TC_001 - Clicked on My Account
+15:05:24.129 [main] INFO  testCases.TC_001 - Clicked on Register
+15:05:24.161 [main] INFO  testCases.TC_001 - Providing Customer Details.....
+15:05:26.556 [main] INFO  testCases.TC_001 - Validating expected Message......
+15:05:26.678 [main] INFO  testCases.TC_001 - ********* Finished TC_001 Test ***********
+15:06:38.701 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\vanti\OneDrive\Desktop\Selenium Project\opencart_v1\master.xml
+
+15:06:45.827 [main] INFO  testCases.TC_001 - *********** Starting TC_001 test ***************
+15:06:45.965 [main] INFO  testCases.TC_001 - Clicked on My Account
+15:06:46.985 [main] INFO  testCases.TC_001 - Clicked on Register
+15:06:46.991 [main] INFO  testCases.TC_001 - Providing Customer Details.....
+15:06:48.740 [main] INFO  testCases.TC_001 - Validating expected Message......
+15:06:48.825 [main] INFO  testCases.TC_001 - ********* Finished TC_001 Test ***********
+15:06:54.628 [main] INFO  testCases.TC_002_Login_Test - ******* Starting TC_002_login_Test ********
+15:06:56.637 [main] INFO  testCases.TC_002_Login_Test - ******* Finished TC_002_login_Test ********
+15:38:34.099 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\vanti\OneDrive\Desktop\Selenium Project\opencart_v1\master.xml
+
+15:38:41.029 [main] INFO  testCases.TC_001 - *********** Starting TC_001 test ***************
+15:38:41.179 [main] INFO  testCases.TC_001 - Clicked on My Account
+15:38:41.861 [main] INFO  testCases.TC_001 - Clicked on Register
+15:38:41.867 [main] INFO  testCases.TC_001 - Providing Customer Details.....
+15:38:43.058 [main] INFO  testCases.TC_001 - Validating expected Message......
+15:38:53.124 [main] ERROR testCases.TC_001 - Test Failed.......
+15:40:10.403 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\vanti\OneDrive\Desktop\Selenium Project\opencart_v1\master.xml
+
+15:40:17.765 [main] INFO  testCases.TC_001 - *********** Starting TC_001 test ***************
+15:40:17.908 [main] INFO  testCases.TC_001 - Clicked on My Account
+15:40:18.624 [main] INFO  testCases.TC_001 - Clicked on Register
+15:40:18.631 [main] INFO  testCases.TC_001 - Providing Customer Details.....
+15:40:20.375 [main] INFO  testCases.TC_001 - Validating expected Message......
+15:40:20.460 [main] INFO  testCases.TC_001 - ********* Finished TC_001 Test ***********
+15:40:25.861 [main] INFO  testCases.TC_002_Login_Test - ******* Starting TC_002_login_Test ********
+15:40:27.744 [main] INFO  testCases.TC_002_Login_Test - ******* Finished TC_002_login_Test ********
+20:27:59.648 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\vanti\OneDrive\Desktop\Selenium Project\opencart_v1\docker.xml
+
+20:34:28.991 [main] INFO  testCases.TC_001 - *********** Starting TC_001 test ***************
+20:34:30.949 [main] INFO  testCases.TC_001 - Clicked on My Account
